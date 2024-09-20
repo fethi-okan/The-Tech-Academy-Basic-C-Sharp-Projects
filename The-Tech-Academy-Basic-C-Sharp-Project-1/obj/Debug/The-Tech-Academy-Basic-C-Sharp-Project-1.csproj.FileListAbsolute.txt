@@ -1,0 +1,8 @@
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Project-1\The-Tech-Academy-Basic-C-Sharp-Project-1\bin\Debug\The-Tech-Academy-Basic-C-Sharp-Project-1.exe.config
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Project-1\The-Tech-Academy-Basic-C-Sharp-Project-1\bin\Debug\The-Tech-Academy-Basic-C-Sharp-Project-1.exe
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Project-1\The-Tech-Academy-Basic-C-Sharp-Project-1\bin\Debug\The-Tech-Academy-Basic-C-Sharp-Project-1.pdb
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Project-1\The-Tech-Academy-Basic-C-Sharp-Project-1\obj\Debug\The-Tech-Academy-Basic-C-Sharp-Project-1.csproj.AssemblyReference.cache
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Project-1\The-Tech-Academy-Basic-C-Sharp-Project-1\obj\Debug\The-Tech-Academy-Basic-C-Sharp-Project-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Project-1\The-Tech-Academy-Basic-C-Sharp-Project-1\obj\Debug\The-Tech-Academy-Basic-C-Sharp-Project-1.csproj.CoreCompileInputs.cache
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Project-1\The-Tech-Academy-Basic-C-Sharp-Project-1\obj\Debug\The-Tech-Academy-Basic-C-Sharp-Project-1.exe
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Project-1\The-Tech-Academy-Basic-C-Sharp-Project-1\obj\Debug\The-Tech-Academy-Basic-C-Sharp-Project-1.pdb
