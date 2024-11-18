@@ -1,0 +1,15 @@
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\EFApp\bin\Debug\StudentDB.mdf
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\EFApp\bin\Debug\StudentDB_log.ldf
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\EFApp\bin\Debug\EFApp.exe.config
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\EFApp\bin\Debug\EFApp.exe
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\EFApp\bin\Debug\EFApp.pdb
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\EFApp\bin\Debug\EntityFramework.dll
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\EFApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\EFApp\bin\Debug\EntityFramework.xml
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\EFApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\EFApp\obj\Debug\EFApp.csproj.AssemblyReference.cache
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\EFApp\obj\Debug\EFApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\EFApp\obj\Debug\EFApp.csproj.CoreCompileInputs.cache
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\EFApp\obj\Debug\EFApp.csproj.CopyComplete
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\EFApp\obj\Debug\EFApp.exe
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\EFApp\obj\Debug\EFApp.pdb
