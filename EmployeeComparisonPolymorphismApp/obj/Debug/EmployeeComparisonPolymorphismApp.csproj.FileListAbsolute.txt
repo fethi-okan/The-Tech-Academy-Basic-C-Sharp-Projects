@@ -1,0 +1,8 @@
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\EmployeeComparisonPolymorphismApp\bin\Debug\EmployeeComparisonPolymorphismApp.exe.config
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\EmployeeComparisonPolymorphismApp\bin\Debug\EmployeeComparisonPolymorphismApp.exe
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\EmployeeComparisonPolymorphismApp\bin\Debug\EmployeeComparisonPolymorphismApp.pdb
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\EmployeeComparisonPolymorphismApp\obj\Debug\EmployeeComparisonPolymorphismApp.csproj.AssemblyReference.cache
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\EmployeeComparisonPolymorphismApp\obj\Debug\EmployeeComparisonPolymorphismApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\EmployeeComparisonPolymorphismApp\obj\Debug\EmployeeComparisonPolymorphismApp.csproj.CoreCompileInputs.cache
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\EmployeeComparisonPolymorphismApp\obj\Debug\EmployeeComparisonPolymorphismApp.exe
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\EmployeeComparisonPolymorphismApp\obj\Debug\EmployeeComparisonPolymorphismApp.pdb
