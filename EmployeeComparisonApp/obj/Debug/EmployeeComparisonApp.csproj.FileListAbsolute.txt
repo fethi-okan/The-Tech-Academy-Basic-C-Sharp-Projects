@@ -1,0 +1,8 @@
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\EmployeeComparisonApp\bin\Debug\EmployeeComparisonApp.exe.config
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\EmployeeComparisonApp\bin\Debug\EmployeeComparisonApp.exe
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\EmployeeComparisonApp\bin\Debug\EmployeeComparisonApp.pdb
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\EmployeeComparisonApp\obj\Debug\EmployeeComparisonApp.csproj.AssemblyReference.cache
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\EmployeeComparisonApp\obj\Debug\EmployeeComparisonApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\EmployeeComparisonApp\obj\Debug\EmployeeComparisonApp.csproj.CoreCompileInputs.cache
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\EmployeeComparisonApp\obj\Debug\EmployeeComparisonApp.exe
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\EmployeeComparisonApp\obj\Debug\EmployeeComparisonApp.pdb
