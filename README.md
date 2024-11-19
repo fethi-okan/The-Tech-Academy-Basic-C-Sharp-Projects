@@ -56,6 +56,21 @@ Add an Admin View for a site administrator to the Insuree Views. This page must 
 
 Email all database .mdf and .ldf files to an Instructor. These are located in your project’s app_data folder.
 
+## MethodApp
+Perform these actions and create a console app that includes the following:
+
+Create a class. In that class, create a void method that takes two integers as parameters. Have the method do a math operation on the first integer and display the second integer to the screen. 
+
+In the Main() method of the console app, instantiate the class.
+
+Call the method in the class, passing in two numbers. 
+
+Call the method in the class, specifying the parameters by name.
+
+Add comments to each line or block of your code to explain what it does exactly, so that another developer could read and understand your code.
+
+
+
 ## Project 1
 Requirements
 
