@@ -1,4 +1,7 @@
 # The-Tech-Academy-Basic-C-Sharp-Projects
+## EFApp
+Create a basic Entity Framework Code-First console application that creates a basic Student database and adds one student.
+
 ## CarInsurance
 ASP.NET MVC Entity Framework Assignment Part 4
 
