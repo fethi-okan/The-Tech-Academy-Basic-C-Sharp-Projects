@@ -1,0 +1,8 @@
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\MethodApp\bin\Debug\MethodApp.exe.config
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\MethodApp\bin\Debug\MethodApp.exe
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\MethodApp\bin\Debug\MethodApp.pdb
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\MethodApp\obj\Debug\MethodApp.csproj.AssemblyReference.cache
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\MethodApp\obj\Debug\MethodApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\MethodApp\obj\Debug\MethodApp.csproj.CoreCompileInputs.cache
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\MethodApp\obj\Debug\MethodApp.exe
+C:\Users\Nese\source\repos\The-Tech-Academy-Basic-C-Sharp-Projects\MethodApp\obj\Debug\MethodApp.pdb
