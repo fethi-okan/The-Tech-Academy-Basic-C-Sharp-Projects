@@ -1,4 +1,40 @@
 # The-Tech-Academy-Basic-C-Sharp-Projects
+## CarInsurance
+ASP.NET MVC Entity Framework Assignment Part 4
+
+Now you will add code logic that will calculate a quote based on the information the user inputs into the form.
+
+Complete these actions:
+
+In the InsureeController, add logic to calculate a quote based on these guidelines:
+
+Start with a base of $50 / month.
+
+If the user is 18 or under, add $100 to the monthly total.
+
+If the user is from 19 to 25, add $50 to the monthly total.
+
+If the user is 26 or older, add $25 to the monthly total. Double check your code to ensure all ages are covered.
+
+If the car's year is before 2000, add $25 to the monthly total.
+
+If the car's year is after 2015, add $25 to the monthly total.
+
+If the car's Make is a Porsche, add $25 to the price.
+
+If the car's Make is a Porsche and its model is a 911 Carrera, add an additional $25 to the price. (Meaning, this specific car will add a total of $50 to the price.)
+
+Add $10 to the monthly total for every speeding ticket the user has.
+
+If the user has ever had a DUI, add 25% to the total.
+
+If it's full coverage, add 50% to the total.
+
+Modify the Create View so that the user does not see the “Quote” input field.
+Add an Admin View for a site administrator to the Insuree Views. This page must show all quotes issued, along with the user's first name, last name, and email address.
+
+Email all database .mdf and .ldf files to an Instructor. These are located in your project’s app_data folder.
+
 ## Project 1
 Requirements
 
